@@ -25,7 +25,7 @@ I learnt about OSEMN from other online experts and i went dare ahead to try out 
 e. Overview of key findings from the EDA conducted in Task 1 and the choices made in the pipeline based on these findings, particularly any feature
 engineering. Please keep the details of the EDA in the `.ipynb`, this section should be a quick summary.
 
-I scrub the data by replacing as much as i could all the null values / NaNs and screening out outliers mostly by using my business sense as well as some python tools i picked up online via self learning.
+I scrub the data by replacing as much as i could all the null values / NaNs and screening out outliers mostly by using my business sense as well as some python tools i picked up online via self learning. The Obtaining data portion was already not a straight road for me because it wasn't the usual easy CSV file but SQLite database. I did it on that part! Yeah! Haha!
 
 
 
